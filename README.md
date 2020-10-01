@@ -1,11 +1,13 @@
-# Plans
+# Website Project
+
+## Plans
 
 * Attach Social Media Platforms
 * Create a link out
 * Use thoughtful design
 * link into a user database
 
-# Current Workings
+## Current Workings
 * Create base website
 * Scripting
 
