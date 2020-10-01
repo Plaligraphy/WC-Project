@@ -1,5 +1,5 @@
 # Website Project
-
+[![Build Status](https://travis-ci.org/doge/wow.svg)](https://travis-ci.org/doge/wow)
 ## Plans
 
 * Attach Social Media Platforms
