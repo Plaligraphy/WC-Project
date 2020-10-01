@@ -1,0 +1,52 @@
+.BaseTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.Base {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+body {
+    background-color: black;
+}
+.StdButton {
+    background-color: goldenrod;
+    border:none;
+    color:white;
+    display: inline-flexbox;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 8px 2px;
+}
+.StdButton:hover {
+    background-color: darkblue;
+    color:goldenrod
+}
+.pad {
+    text-align:left;
+
+}
+.leftpad {
+    text-align:right
+}
+.fa {
+    padding: 40px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: #3b5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55acee;
+    color: white;
+}
+.fa-youtube {
+    background: #ff0000;
+    color:white;
+}
